@@ -79,7 +79,7 @@ The repository is released under CC-BY
 
 <sup>2</sup> Rodriguez, Hoger, McCulloch, Stress-dependent finite growth in soft elastic tissues. Journal of Biomechanics, 1994
 
-<sup>3</sup> Suditsch, Egli, Lambers, Wagner, Ricken, Biphasic kinematic growth in biological tissue, Journal of Biomechanics and Modeling in Mechanobiology, 2024
+<sup>3</sup> Suditsch, Egli, Lambers, Wagner, Ricken, Biphasic kinematic growth in biological tissue,...
 
 <sup>4</sup> Anders Logg et al., Automated Solution of Differential Equations by the Finite Element Method, Springer Berlin Heidelberg, 2012, DOI: 10.1007/978-3-642-23099-8
 
