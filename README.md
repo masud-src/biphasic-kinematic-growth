@@ -51,11 +51,11 @@ Finite Element framework of FEniCS<sup>4</sup>.
 The presented code can simply be run in an [Anaconda environment](https://anaconda.org/), which therefore needs to be installed. With the following command
 all necessary libraries will be installed.
 ```
-conda create -n multiphasic-kinematic-growth -c conda-forge fenics meshio matplotlib jupyterlab gmsh
+conda create -n biphasic-kinematic-growth -c conda-forge fenics meshio matplotlib jupyterlab gmsh
 ```
 This way not always lead to success and an alternative workaround is to set up an environment just with the FEniCS library and install all other one by one.
 ```
-conda create -n multiphasic-kinematic-growth -c conda-forge fenics
+conda create -n biphasic-kinematic-growth -c conda-forge fenics
 conda install -c conda-forge meshio
 conda install -c conda-forge matplotlib
 conda install -c conda-forge jupyterlab
@@ -63,12 +63,13 @@ conda install -c conda-forge gmsh
 ```
 To activate the environment run
 ```
-conda activate multiphasic-kinematic-growth
+conda activate biphasic-kinematic-growth
 ```
 The simulations are run with
 ```
 python3 comparision_Growth_Formulations.py
 ```
+
 # Licence
 
 The repository is released under CC-BY
