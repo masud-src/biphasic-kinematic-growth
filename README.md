@@ -72,7 +72,7 @@ python3 comparision_Growth_Formulations.py
 
 # Licence
 
-The repository is released under CC-BY
+The repository is released under GPL 3.0
 
 # Literature
 
@@ -80,7 +80,7 @@ The repository is released under CC-BY
 
 <sup>2</sup> Rodriguez, Hoger, McCulloch, Stress-dependent finite growth in soft elastic tissues. Journal of Biomechanics, 1994
 
-<sup>3</sup> Suditsch, Egli, Lambers, Wagner, Ricken, Biphasic kinematic growth in biological tissue,...
+<sup>3</sup> Suditsch, Egli, Lambers, Wagner, Ricken, Kinematic growth in biphasic biological tissue,...
 
 <sup>4</sup> Anders Logg et al., Automated Solution of Differential Equations by the Finite Element Method, Springer Berlin Heidelberg, 2012, DOI: 10.1007/978-3-642-23099-8
 
