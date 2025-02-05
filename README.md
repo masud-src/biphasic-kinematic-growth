@@ -74,6 +74,26 @@ python3 comparision_Growth_Formulations.py
 
 The repository is released under GPL 3.0
 
+
+# How to cite
+
+If you are using code from this repository please also cite the related publication
+
+**Growth in biphasic tissue**. Marlon Suditsch, Franziska S. Egli, Lena Lambers, Tim Ricken, International Journal of Engineering Science (2025). [10.1016/j.ijengsci.2024.104183](https://doi.org/10.1016/j.ijengsci.2024.104183) 
+```bib
+@article{SUDITSCH2025104183,
+title = {Growth in biphasic tissue},
+journal = {International Journal of Engineering Science},
+volume = {208},
+pages = {104183},
+year = {2025},
+issn = {0020-7225},
+doi = {https://doi.org/10.1016/j.ijengsci.2024.104183},
+url = {https://www.sciencedirect.com/science/article/pii/S0020722524001678},
+author = {Marlon Suditsch and Franziska S. Egli and Lena Lambers and Tim Ricken},
+}
+```
+
 # Literature
 
 <sup>1</sup> Ehlers, Foundations of multiphasic and porous materials. In: Porous Media. Springer, 2002
